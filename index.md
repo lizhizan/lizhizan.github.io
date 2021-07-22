@@ -1,7 +1,7 @@
 <table border="0">
   <tr>
     <td width="75%">
-      <h1>李之赞 Wu Tao</h1>
+      <h1>李之赞 LiZhiZan</h1>
       <p><b>重庆邮电大学网络空间安全硕士生</b></p>
       <p><b>重庆邮电大学网络空间安全学院与信息法学院</b></p>
       <p><b>邮箱：lizhizan03@163.com</b></p>
