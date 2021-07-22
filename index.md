@@ -1,28 +1,21 @@
 <table border="0">
+<html>
   <tr>
-    <td width="75%">
-      <h1>李之赞 LiZhiZan</h1>
-      <p><b>重庆邮电大学网络空间安全硕士生</b></p>
-      <p><b>重庆邮电大学网络空间安全学院与信息法学院</b></p>
-      <p><b>邮箱：lizhizan03@163.com</b></p>
-      <p><b>联系方式：+86 13187329477</b></p>
-      <p><b>地址：重庆市南岸区崇文路2号重庆邮电大学</b></p>
+    <td width="60%">
+      <body>
+      <font style="font-family:宋体" font size="6">李之赞 Li Zhi Zan</font><br />
+      <font style="font-family:宋体" font size="4">重庆邮电大学网络空间安全研究生</font><br />
+      <font style="font-family:宋体" font size="4">重庆邮电大学网络空间安全学院与信息法学院</font><br />
+      <font style="font-family:宋体" font size="4">网络空间安全专业</font><br />
+      <font style="font-family:宋体" font size="4">政治面貌：中共党员</font><br />
+      <font style="font-family:宋体" font size="4">邮箱：lizhizan03@163.com</font><br />
+      <font style="font-family:宋体" font size="4">联系方式：+86 13187329477</font><br />
+      <font style="font-family:宋体" font size="4">地址：重庆市南岸区崇文路2号 重庆邮电大学</font><br />
+        </body>
     </td>
-    <td width="25%">
-      <img src="/zhengjianzhao.jpg"  width="100%">      
+    <td width="35%">
+      <img src="/zhaopian.jpg"  width="50%">      
     </td>
   </tr>
+  </html>
 </table>
-### 个人简介
-#### 1.*******
-### 主要研究领域
-#### 2.*******
-### 教育背景
-#### 3.*******
-### 主要项目
-#### 4.*******
-### 代表性研究成果
-#### 一、期刊论文
-#### 二、会议论文
-#### 三、发明专利
-#### 四、学术奖励
