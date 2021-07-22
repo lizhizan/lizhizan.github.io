@@ -2,7 +2,7 @@
   <tr>
     <td width="50%">
       <body>
-        <img src="/zhaopian.jpg" width="23%" style="float:right;" />  
+        <img src="/zhengjianzhao.jpg" width="23%" style="float:right;" />  
       <font style="font-family:宋体" font size="6">李之赞 Li Zhi Zan</font><br />
       <font style="font-family:宋体" font size="4">重庆邮电大学网络空间安全硕士</font><br />
       <font style="font-family:宋体" font size="4">重庆邮电大学网络空间安全学院与信息法学院</font><br />
