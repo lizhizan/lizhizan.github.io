@@ -81,7 +81,7 @@
         <hr />  
     </body> 
   <body>
-  <font style="font-family:宋体" font size="4">***************************************</font><br />
+  <font style="font-family:宋体" font size="4">***********************************</font><br />
     </body>
 </html> 
 
